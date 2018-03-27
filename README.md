@@ -26,7 +26,7 @@ VideoSort can organize:
 ## Installation
 
  - Download the newest version from [releases page](https://github.com/nzbget/VideoSort/releases/latest).
- - Unpack into pp-scripts directory. Your pp-scripts directory now should have folder "videosort" with subfolder "lib" and file "VideoSort.py";
+ - Unpack into pp-scripts directory. Your pp-scripts directory now should have folder "videosort" with subfolder "lib" and file "VideoSort.py"; On a Synology NAS the folder is: /usr/local/nzbget/share/nzbget/scripts
  - Open settings tab in NZBGet web-interface and define settings for VideoSort;
  - Save changes and restart NZBGet.
 
